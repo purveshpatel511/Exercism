@@ -1,0 +1,10 @@
+#### vscode
+.vscode
+
+## exercism metadata
+*/.exercism
+
+## python cache
+*/__pycache__
+*/.benchmarks
+*/.pytest_cache
