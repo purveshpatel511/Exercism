@@ -2,9 +2,9 @@
 .vscode
 
 ## exercism metadata
-*/.exercism
+.exercism
 
 ## python cache
-*/__pycache__
-*/.benchmarks
-*/.pytest_cache
+__pycache__
+.benchmarks
+.pytest_cache
